@@ -154,7 +154,7 @@ section {
     min-height: fit-content;
 }
 
-section-container {
+.section-container {
     display: flex;
 }
 
